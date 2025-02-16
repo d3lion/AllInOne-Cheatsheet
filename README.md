@@ -43,6 +43,7 @@ Ya sea que estés aprendiendo un nuevo lenguaje, preparándote para una entrevis
 <details>
   <summary style="font-size: 1.5em;">🔧 Herramientas</summary>
   <ul>
+    <li><a href ="https://github.com/d3lion/AllInOne-Cheatsheet/tree/main/Nmap">Nmap</a></li>
     <li>🔀 Git</li>
     <li>🐳 Docker</li>
     <li>☸️ Kubernetes</li>
