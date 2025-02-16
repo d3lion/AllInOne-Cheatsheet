@@ -13,7 +13,7 @@ Ya sea que estés aprendiendo un nuevo lenguaje, preparándote para una entrevis
 <details>
   <summary style="font-size: 1.5em;">📚 Lenguajes</summary>
   <ul>
-    <li>🐍 Python</li>
+    <a href="https://github.com/d3lion/AllInOne-Cheatsheet/blob/main/Python/README.md">🐍 Python</a>
     <li>💻 JavaScript</li>
     <li>☕ Java</li>
     <li>🔧 C++</li>
