@@ -15,7 +15,7 @@ Ya sea que estés aprendiendo un nuevo lenguaje, preparándote para una entrevis
   <ul>
     <li><a href="https://github.com/d3lion/AllInOne-Cheatsheet/tree/main/Lenguajes/Python">🐍 Python</a></li>
     <li><a href="https://github.com/d3lion/AllInOne-Cheatsheet/tree/main/Lenguajes/JavaScript">💻 JavaScript</a></li>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width=50px><li><a href="https://github.com/d3lion/AllInOne-Cheatsheet/tree/main/Lenguajes/TypeScript">🐍 TypeScript</a></li>
+    <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width=25px><a href="https://github.com/d3lion/AllInOne-Cheatsheet/tree/main/Lenguajes/TypeScript">🐍 TypeScript</a></li>
     <li>☕ Java</li>
     <li>🔧 C++</li>
   </ul>
