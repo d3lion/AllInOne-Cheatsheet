@@ -14,7 +14,8 @@ Ya sea que estés aprendiendo un nuevo lenguaje, preparándote para una entrevis
   <summary style="font-size: 1.5em;">📚 Lenguajes</summary>
   <ul>
     <li><a href="https://github.com/d3lion/AllInOne-Cheatsheet/tree/main/Lenguajes/Python">🐍 Python</a></li>
-    <li>💻 JavaScript</li>
+    <li><a href="https://github.com/d3lion/AllInOne-Cheatsheet/tree/main/Lenguajes/JavaScript">💻 JavaScript</a></li>
+    <li><a href="https://github.com/d3lion/AllInOne-Cheatsheet/tree/main/Lenguajes/TypeScript">🐍 TypeScript</a></li>
     <li>☕ Java</li>
     <li>🔧 C++</li>
   </ul>
@@ -44,7 +45,7 @@ Ya sea que estés aprendiendo un nuevo lenguaje, preparándote para una entrevis
   <summary style="font-size: 1.5em;">🔧 Herramientas</summary>
   <ul>
     <li>🔍<a href ="https://github.com/d3lion/AllInOne-Cheatsheet/tree/main/Herramientas/Nmap">Nmap</a></li>
-    <li>🔀 Git</li>
+    <li><a href="https://github.com/d3lion/AllInOne-Cheatsheet/tree/main/Herramientas/Git">🔀 Git</a></li>
     <li>🐳 Docker</li>
     <li>☸️ Kubernetes</li>
     <li>📦 Webpack</li>
