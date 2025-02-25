@@ -6,7 +6,7 @@ Python es un lenguaje de programación interpretado, de alto nivel y de propósi
 
 ## Hoja de trucos 📋
 
-- [Básico](https://github.com/d3lion/AllInOne-Cheatsheet/tree/main/Python/Basico)
+- [Básico](https://github.com/d3lion/AllInOne-Cheatsheet/blob/main/Lenguajes/Python/Basico/README.md)
 
 <details>
   <summary>🔢 Matemáticas y Ciencia de Datos</summary>
