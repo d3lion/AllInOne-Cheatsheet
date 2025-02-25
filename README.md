@@ -45,7 +45,7 @@ Ya sea que estés aprendiendo un nuevo lenguaje, preparándote para una entrevis
   <summary style="font-size: 1.5em;">🔧 Herramientas</summary>
   <ul>
     <li><img src="https://www.nosolohacking.info/wp-content/uploads/2020/09/nmap-logo-256x256-1.png" width=25px><a href ="https://github.com/d3lion/AllInOne-Cheatsheet/tree/main/Herramientas/Nmap">Nmap</a></li>
-    <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width=25px><a href="https://github.com/d3lion/AllInOne-Cheatsheet/tree/main/Herramientas/Git">🔀 Git</a></li>
+    <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width=25px><a href="https://github.com/d3lion/AllInOne-Cheatsheet/tree/main/Herramientas/Git">Git</a></li>
     <li>🐳 Docker</li>
     <li>☸️ Kubernetes</li>
     <li>📦 Webpack</li>
