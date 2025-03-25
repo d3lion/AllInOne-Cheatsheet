@@ -55,7 +55,7 @@ Ya sea que estés aprendiendo un nuevo lenguaje, preparándote para una entrevis
 <details>
   <summary style="font-size: 1.5em;">🗄️ Gestor BD</summary>
   <ul>
-    <li <a href="https://github.com/d3lion/AllInOne-Cheatsheet/tree/main/GDBD/MySQL#readme">>🐬 MySQL</li>
+    <li><a href="https://github.com/d3lion/AllInOne-Cheatsheet/tree/main/GDBD/MySQL#readme">🐬MySQL</a></li>
   </ul>
 </details>
 
